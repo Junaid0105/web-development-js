@@ -1,0 +1,10 @@
+.navigation-bar{
+    height: 70px;
+    background-color: aqua;
+}
+.icon-logo{
+    height: 65px;
+    background-color: brown;
+    width: 200px;
+    margin-left: 100px;
+}
